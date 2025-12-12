@@ -1,0 +1,8 @@
+{
+  "servers": {
+    "hh-vacancies-mcp": {
+      "command": "python",
+      "args": ["main.py"]
+    }
+  }
+}
