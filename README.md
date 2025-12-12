@@ -14,6 +14,8 @@
 
 ## Инструкция по запуску
 
+ССЫЛКА НА ВИДЕО https://drive.google.com/file/d/1u0PKV-0npjldTu1XEXZyO-tukI9phOLo/view?usp=sharing
+
 Установка зависимостей.
 
 ```
